@@ -1,5 +1,3 @@
-package F28DA_CW1;
-
 public class ModWords {
 	char[] alfabet = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's',
 			't', 'u', 'v', 'w', 'x', 'y', 'z' };
@@ -26,6 +24,7 @@ public class ModWords {
 				}
 			}
 		}
+		//this is a pysh test
 		return null;
 	}
 
