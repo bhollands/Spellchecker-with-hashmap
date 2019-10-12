@@ -1,4 +1,4 @@
-package F28DA_CW1;
+
 
 public class WException extends Exception {
 

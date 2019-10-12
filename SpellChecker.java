@@ -1,5 +1,3 @@
-package F28DA_CW1;
-
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
 import java.io.IOException;
